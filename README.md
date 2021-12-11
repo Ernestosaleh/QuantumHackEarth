@@ -1,5 +1,5 @@
 # QuantumHackEarth
-My contribution to Qiskit in HackEarth
+My work with Qiskit in HackEarth
 
 An hybrid Quantum-Classical Neural Network application for image classification!
 Motivated by the task of classifying eliptical from spyral galaxies.
